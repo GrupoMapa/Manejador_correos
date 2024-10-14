@@ -21,7 +21,7 @@ dotenv.load_dotenv()
 # Ruta del directorio donde se encuentran los archivos de correo electrónico
 
 directorio_correos      = os.environ.get("DIRECTORIO_CORREOS")
-directorio_adjuntos     = os.environ.get("DIRECTORIO_ADJUNTOS")  
+directorio_adjuntos      = os.environ.get("DIRECTORIO_ADJUNTOS")  
 url_solicitud_post      = os.environ.get("URL_SOLICITUD_POST")  
 url_lista_procesados    = os.environ.get("URL_LISTA_PROCESADOS")  
 NIT                     = os.environ.get("NIT")
@@ -360,7 +360,7 @@ def procesar_correo(correo, fecha_correo_str, message_id):
       # si el tipo de archivo es pdf o json, mover a la carpeta
         if nombre_decodificado.lower().endswith('.pdf'):
           nombre_decodificado_ = nombre_decodificado[1:]
-          name_file = nombre_decodificado_+hora_act+'.pdf'
+          name_file = nombre_decodificado_+'.pdf'
           archivos_pdf.append(name_file)
           print_json( 'INFO_PDF',APP_URL+'/PROD_files/'+name_file, direccion_origen, fecha_correo, '' )
           ruta_archivo = os.path.join(directorio_adjuntos, name_file)
@@ -368,7 +368,7 @@ def procesar_correo(correo, fecha_correo_str, message_id):
             archivoPdf.write(parte.get_payload(decode=True))  
         elif nombre_decodificado.lower().endswith('.json'):
           nombre_decodificado_ = nombre_decodificado[1:]
-          name_file = nombre_decodificado_ + hora_act + '.json'
+          name_file = nombre_decodificado_  + '.json'
           CONTADOR_JSON = CONTADOR_JSON +1
           archivos_json.append(name_file)
           print_json( 'INFO_JSON',APP_URL+'/PROD_files/'+name_file, direccion_origen, fecha_correo, '' )
@@ -377,7 +377,7 @@ def procesar_correo(correo, fecha_correo_str, message_id):
             archivo.write(parte.get_payload(decode=True))
         elif nombre_decodificado.lower().endswith('.txt'):
           nombre_decodificado_ = nombre_decodificado[1:]
-          name_file = nombre_decodificado_ + hora_act + '.json'
+          name_file = nombre_decodificado_  + '.json'
           archivos_json.append(name_file)
           print_json( 'INFO_JSON',APP_URL+'/PROD_files/'+name_file, direccion_origen, fecha_correo, '' )
           ruta_archivo = os.path.join(directorio_adjuntos, name_file)
@@ -385,7 +385,7 @@ def procesar_correo(correo, fecha_correo_str, message_id):
             archivo.write(parte.get_payload(decode=True))
         else:
           nombre_decodificado_ = nombre_decodificado[1:]
-          name_file = hora_act+'desconocido'+ nombre_decodificado_
+          name_file = 'desconocido'+ nombre_decodificado_
           extension_alterna = ''
           if( content_type == 'application/pdf'): 
             extension_alterna = '.pdf'
