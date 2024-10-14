@@ -63,21 +63,14 @@ def obtener_fecha(correo):
       return fecha_correo_str
   return None
 def obtener_direccion_origen(correo):
-    try:
-        direccion_origen = correo.get("From", None)
-        if direccion_origen:
-            # Extraer la dirección de correo electrónico utilizando expresiones regulares
-            match = re.search(r'<([^>]+)>', str(direccion_origen))  # Forzar conversión a cadena
-            if match:
-                direccion_origen = match.group(1)
-        else:
-            # Generar una cadena aleatoria de 10 caracteres y añadir 'no_definido'
-            random_string = ''.join(random.choices(string.ascii_letters + string.digits, k=10))
-            direccion_origen = f'{random_string}@no_definido'
-        return direccion_origen
-    except Exception as e:
-        print(f"Error al obtener la dirección de origen: {e}")
-        return "desconocido"
+  global resultado_final # Declarar resultado_final como global
+  direccion_origen = correo.get("From", None)
+  if direccion_origen:
+    # Extraer la dirección de correo electrónico utilizando expresiones regulares
+    match = re.search(r'<([^>]+)>', direccion_origen)
+    if match:
+      direccion_origen = match.group(1)
+  return direccion_origen
 
 def obtener_hora_actual():
   global resultado_final # Declarar resultado_final como global = datetime.now()
@@ -367,7 +360,7 @@ def procesar_correo(correo, fecha_correo_str, message_id):
       # si el tipo de archivo es pdf o json, mover a la carpeta
         if nombre_decodificado.lower().endswith('.pdf'):
           nombre_decodificado_ = nombre_decodificado[1:]
-          name_file = nombre_decodificado_+'.pdf'
+          name_file = nombre_decodificado_+hora_act+'.pdf'
           archivos_pdf.append(name_file)
           print_json( 'INFO_PDF',APP_URL+'/PROD_files/'+name_file, direccion_origen, fecha_correo, '' )
           ruta_archivo = os.path.join(directorio_adjuntos, name_file)
@@ -375,7 +368,7 @@ def procesar_correo(correo, fecha_correo_str, message_id):
             archivoPdf.write(parte.get_payload(decode=True))  
         elif nombre_decodificado.lower().endswith('.json'):
           nombre_decodificado_ = nombre_decodificado[1:]
-          name_file = nombre_decodificado_  + '.json'
+          name_file = nombre_decodificado_ + hora_act + '.json'
           CONTADOR_JSON = CONTADOR_JSON +1
           archivos_json.append(name_file)
           print_json( 'INFO_JSON',APP_URL+'/PROD_files/'+name_file, direccion_origen, fecha_correo, '' )
@@ -384,7 +377,7 @@ def procesar_correo(correo, fecha_correo_str, message_id):
             archivo.write(parte.get_payload(decode=True))
         elif nombre_decodificado.lower().endswith('.txt'):
           nombre_decodificado_ = nombre_decodificado[1:]
-          name_file = nombre_decodificado_  + '.json'
+          name_file = nombre_decodificado_ + hora_act + '.json'
           archivos_json.append(name_file)
           print_json( 'INFO_JSON',APP_URL+'/PROD_files/'+name_file, direccion_origen, fecha_correo, '' )
           ruta_archivo = os.path.join(directorio_adjuntos, name_file)
@@ -392,7 +385,7 @@ def procesar_correo(correo, fecha_correo_str, message_id):
             archivo.write(parte.get_payload(decode=True))
         else:
           nombre_decodificado_ = nombre_decodificado[1:]
-          name_file = 'desconocido'+ nombre_decodificado_
+          name_file = hora_act+'desconocido'+ nombre_decodificado_
           extension_alterna = ''
           if( content_type == 'application/pdf'): 
             extension_alterna = '.pdf'

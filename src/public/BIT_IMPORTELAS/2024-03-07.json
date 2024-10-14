@@ -1,0 +1,1473 @@
+[
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 3, 4, 8, 4, 51, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/1BE4D48-A857-43F5-A506-4C511055CA01.pdf7_39_59.pdf",
+    "fecha": "2024-03-04 08:04:51",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/1BE4D48-A857-43F5-A506-4C511055CA01.json7_39_59.json",
+    "fecha": "2024-03-04 08:04:51",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 3, 4, 8, 4, 51, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/E6B703A-F4C8-4E20-8684-8ADF4B01D491.pdf7_39_59.pdf",
+    "fecha": "2024-03-04 08:04:51",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/E6B703A-F4C8-4E20-8684-8ADF4B01D491.json7_39_59.json",
+    "fecha": "2024-03-04 08:04:51",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 3, 3, 13, 7, 58, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 01/03/2024. " , "files": [
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidoEP240303.0907.ZIP",
+    "fecha": "2024-03-03 13:07:58",
+    "error": "",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 3, 2, 23, 48, 4, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/1C562CA-D807-4571-8069-13C287D65B46.pdf7_39_59.pdf",
+    "fecha": "2024-03-02 23:48:04",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/1C562CA-D807-4571-8069-13C287D65B46.json7_39_59.json",
+    "fecha": "2024-03-02 23:48:04",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 3, 2, 23, 48, 4, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/4C54FB8-6A9D-4890-BA94-CEDDBBD0C75E.pdf7_39_59.pdf",
+    "fecha": "2024-03-02 23:48:04",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/4C54FB8-6A9D-4890-BA94-CEDDBBD0C75E.json7_39_59.json",
+    "fecha": "2024-03-02 23:48:04",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " efactura@cosase.com ", "fecha": " (2024, 3, 2, 17, 11, 30, 0, 1, -1) ", "titulo":" Factura Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/A512876-5FBF-4D96-9679-82388D7B548A_2_3_2024_16_32_836.pdf7_39_59.pdf",
+    "fecha": "2024-03-02 17:11:30",
+    "error": "",
+    "direccion_origen": "efactura@cosase.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/A512876-5FBF-4D96-9679-82388D7B548A.json7_39_59.json",
+    "fecha": "2024-03-02 17:11:30",
+    "error": "",
+    "direccion_origen": "efactura@cosase.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " efactura@cosase.com ", "fecha": " (2024, 3, 2, 16, 32, 28, 0, 1, -1) ", "titulo":" Factura Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/86F8DEF-10E1-465E-86A5-C01D3AEFDD10_2_3_2024_16_32_624.pdf7_39_59.pdf",
+    "fecha": "2024-03-02 16:32:28",
+    "error": "",
+    "direccion_origen": "efactura@cosase.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/86F8DEF-10E1-465E-86A5-C01D3AEFDD10.json7_39_59.json",
+    "fecha": "2024-03-02 16:32:28",
+    "error": "",
+    "direccion_origen": "efactura@cosase.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 3, 2, 15, 28, 17, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 29/02/2024. " , "files": [
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidoEP240302.0876.ZIP",
+    "fecha": "2024-03-02 15:28:17",
+    "error": "",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " fel@inprocasa.com ", "fecha": " (2024, 3, 2, 13, 22, 32, 0, 1, -1) ", "titulo":" INPROCASA - Factura Electronica " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/6DBB723-06AC-4766-9962-52BA6DC8C2E1.json7_39_59.json",
+    "fecha": "2024-03-02 13:22:32",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " fel@inprocasa.com ", "fecha": " (2024, 3, 2, 10, 4, 34, 0, 1, -1) ", "titulo":" INPROCASA - Factura Electronica " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/1B3D59E-A53D-4FD0-BBFF-125EE13959C3.json7_39_59.json",
+    "fecha": "2024-03-02 10:04:34",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{
+    "codigo": "advertencia_multiples_lineas",
+    "titulo": "verificar montos",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 3, 2, 6, 46, 59, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/493FB6A-C82F-4DA1-8906-03FA0ACE0347.pdf7_39_59.pdf",
+    "fecha": "2024-03-02 06:46:59",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/493FB6A-C82F-4DA1-8906-03FA0ACE0347.json7_39_59.json",
+    "fecha": "2024-03-02 06:46:59",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 3, 2, 6, 47, 0, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/4204B49-3034-4BDD-ACEC-696C4A69897E.pdf7_39_59.pdf",
+    "fecha": "2024-03-02 06:47:00",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/4204B49-3034-4BDD-ACEC-696C4A69897E.json7_39_59.json",
+    "fecha": "2024-03-02 06:47:00",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " d.e.t.textiles@gmail.com ", "fecha": " (2024, 3, 1, 13, 51, 42, 0, 1, -1) ", "titulo":" Fwd: New Invoice 03/01/2024 " , "files": [
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidoMPORTEL INVOICE 2024.03.01 PAGE 1.xlsx",
+    "fecha": "2024-03-01 13:51:42",
+    "error": "",
+    "direccion_origen": "d.e.t.textiles@gmail.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " efactura@cosase.com ", "fecha": " (2024, 3, 1, 15, 25, 23, 0, 1, -1) ", "titulo":" Factura Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/4F19943-F747-4D57-A0DE-971279AD470E_1_3_2024_15_25_854.pdf7_39_59.pdf",
+    "fecha": "2024-03-01 15:25:23",
+    "error": "",
+    "direccion_origen": "efactura@cosase.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/4F19943-F747-4D57-A0DE-971279AD470E.json7_39_59.json",
+    "fecha": "2024-03-01 15:25:23",
+    "error": "",
+    "direccion_origen": "efactura@cosase.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " efactura@cosase.com ", "fecha": " (2024, 3, 1, 15, 25, 21, 0, 1, -1) ", "titulo":" Factura Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/47B0D3D-94AD-4C2F-94D9-2C1793CB01C0_1_3_2024_15_25_594.pdf7_39_59.pdf",
+    "fecha": "2024-03-01 15:25:21",
+    "error": "",
+    "direccion_origen": "efactura@cosase.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/47B0D3D-94AD-4C2F-94D9-2C1793CB01C0.json7_39_59.json",
+    "fecha": "2024-03-01 15:25:21",
+    "error": "",
+    "direccion_origen": "efactura@cosase.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " efactura@cosase.com ", "fecha": " (2024, 3, 1, 15, 26, 9, 0, 1, -1) ", "titulo":" Factura Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/F92B2FA-E57D-4268-8176-B7BEF6705212_1_3_2024_15_26_15.pdf7_39_59.pdf",
+    "fecha": "2024-03-01 15:26:09",
+    "error": "",
+    "direccion_origen": "efactura@cosase.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/F92B2FA-E57D-4268-8176-B7BEF6705212.json7_39_59.json",
+    "fecha": "2024-03-01 15:26:09",
+    "error": "",
+    "direccion_origen": "efactura@cosase.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " efactura@cosase.com ", "fecha": " (2024, 3, 1, 15, 25, 53, 0, 1, -1) ", "titulo":" Factura Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/4F19943-F747-4D57-A0DE-971279AD470E_1_3_2024_15_25_854.pdf7_39_59.pdf",
+    "fecha": "2024-03-01 15:25:53",
+    "error": "",
+    "direccion_origen": "efactura@cosase.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/4F19943-F747-4D57-A0DE-971279AD470E.json7_39_59.json",
+    "fecha": "2024-03-01 15:25:53",
+    "error": "",
+    "direccion_origen": "efactura@cosase.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " d.e.t.textiles@gmail.com ", "fecha": " (2024, 3, 1, 12, 18, 30, 0, 1, -1) ", "titulo":" Fwd: New Invoice 03/01/2024 " , "files": [
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidoMPORTEL INVOICE 2024.03.01 PAGE 1.xlsx",
+    "fecha": "2024-03-01 12:18:30",
+    "error": "",
+    "direccion_origen": "d.e.t.textiles@gmail.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " texcantarrana@comercialjulitosadecv.com ", "fecha": " (2024, 2, 29, 17, 21, 48, 0, 1, -1) ", "titulo":" Comprobante de Documento Tributario Electronico " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/1A56319-11E7-4ADC-BBA3-802629BF2D6A.PDF7_39_59.pdf",
+    "fecha": "2024-02-29 17:21:48",
+    "error": "",
+    "direccion_origen": "texcantarrana@comercialjulitosadecv.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/1A56319-11E7-4ADC-BBA3-802629BF2D6A.JSON7_39_59.json",
+    "fecha": "2024-02-29 17:21:48",
+    "error": "",
+    "direccion_origen": "texcantarrana@comercialjulitosadecv.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " fel@inprocasa.com ", "fecha": " (2024, 2, 29, 16, 49, 31, 0, 1, -1) ", "titulo":" INPROCASA - Factura Electronica " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/3406C25-FCAE-47FD-973E-3D1B99FA72C4.json7_39_59.json",
+    "fecha": "2024-02-29 16:49:31",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 29, 20, 20, 54, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/E8C1C12-858F-4A78-9620-73FC74835BB7.pdf7_39_59.pdf",
+    "fecha": "2024-02-29 20:20:54",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/E8C1C12-858F-4A78-9620-73FC74835BB7.json7_39_59.json",
+    "fecha": "2024-02-29 20:20:54",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 29, 14, 26, 21, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 28/02/2024. " , "files": [
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidoEP240229.0840.ZIP",
+    "fecha": "2024-02-29 14:26:21",
+    "error": "",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 29, 20, 20, 54, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/F23CD70-61CE-45EE-9CB3-24813CB8EF4B.pdf7_39_59.pdf",
+    "fecha": "2024-02-29 20:20:54",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/F23CD70-61CE-45EE-9CB3-24813CB8EF4B.json7_39_59.json",
+    "fecha": "2024-02-29 20:20:54",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 28, 17, 44, 11, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/34031BC-E6BD-423F-9994-5DE7F93D13AF.pdf7_39_59.pdf",
+    "fecha": "2024-02-28 17:44:11",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/34031BC-E6BD-423F-9994-5DE7F93D13AF.json7_39_59.json",
+    "fecha": "2024-02-28 17:44:11",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 28, 13, 27, 16, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 27/02/2024. " , "files": [
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidoEP240228.0790.ZIP",
+    "fecha": "2024-02-28 13:27:16",
+    "error": "",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 28, 17, 44, 11, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/860F344-8EEA-4E92-A610-E4100C7788C0.pdf7_39_59.pdf",
+    "fecha": "2024-02-28 17:44:11",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/860F344-8EEA-4E92-A610-E4100C7788C0.json7_39_59.json",
+    "fecha": "2024-02-28 17:44:11",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 27, 13, 38, 52, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 26/02/2024. " , "files": [
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidoEP240227.0818.ZIP",
+    "fecha": "2024-02-27 13:38:52",
+    "error": "",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 27, 17, 5, 14, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/2F79123-3AAC-4351-B857-1314D971B804.pdf7_39_59.pdf",
+    "fecha": "2024-02-27 17:05:14",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/2F79123-3AAC-4351-B857-1314D971B804.json7_39_59.json",
+    "fecha": "2024-02-27 17:05:14",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 27, 17, 5, 14, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/A2368E9-E562-4551-8C08-14C2B53953BB.pdf7_39_59.pdf",
+    "fecha": "2024-02-27 17:05:14",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/A2368E9-E562-4551-8C08-14C2B53953BB.json7_39_59.json",
+    "fecha": "2024-02-27 17:05:14",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 26, 16, 54, 39, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 25/02/2024. " , "files": [
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidoEP240226.0558.ZIP",
+    "fecha": "2024-02-26 16:54:39",
+    "error": "",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 26, 18, 5, 42, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/AD56FAD-A12B-4880-A1D7-9835CCD277B3.pdf7_39_59.pdf",
+    "fecha": "2024-02-26 18:05:42",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/AD56FAD-A12B-4880-A1D7-9835CCD277B3.json7_39_59.json",
+    "fecha": "2024-02-26 18:05:42",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 26, 18, 5, 41, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/9333B6D-81DC-468E-8141-E321491A8B8B.pdf7_39_59.pdf",
+    "fecha": "2024-02-26 18:05:41",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/9333B6D-81DC-468E-8141-E321491A8B8B.json7_39_59.json",
+    "fecha": "2024-02-26 18:05:41",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 26, 11, 36, 16, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 24/02/2024. " , "files": [
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidoEP240226.0833.ZIP",
+    "fecha": "2024-02-26 11:36:16",
+    "error": "",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 26, 0, 41, 25, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/17C05E4-CA39-4C4F-A070-3244D4874D24.pdf7_39_59.pdf",
+    "fecha": "2024-02-26 00:41:25",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/17C05E4-CA39-4C4F-A070-3244D4874D24.json7_39_59.json",
+    "fecha": "2024-02-26 00:41:25",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 26, 0, 41, 24, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/CE4F3A8-F685-4872-A017-BA6404DFDF84.pdf7_39_59.pdf",
+    "fecha": "2024-02-26 00:41:24",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/CE4F3A8-F685-4872-A017-BA6404DFDF84.json7_39_59.json",
+    "fecha": "2024-02-26 00:41:24",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 25, 10, 47, 12, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 23/02/2024. " , "files": [
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidoEP240225.0847.ZIP",
+    "fecha": "2024-02-25 10:47:12",
+    "error": "",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 25, 3, 8, 23, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/8A0303A-EFB7-4F45-90E2-6BB49E324498.pdf7_39_59.pdf",
+    "fecha": "2024-02-25 03:08:23",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/8A0303A-EFB7-4F45-90E2-6BB49E324498.json7_39_59.json",
+    "fecha": "2024-02-25 03:08:23",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 25, 3, 8, 22, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/13705F2-B79D-4B35-BEC1-6BC06FE598C1.pdf7_39_59.pdf",
+    "fecha": "2024-02-25 03:08:22",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/13705F2-B79D-4B35-BEC1-6BC06FE598C1.json7_39_59.json",
+    "fecha": "2024-02-25 03:08:22",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 23, 17, 19, 12, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/A25665E-C3DF-4F60-9A36-E7B7E491B9F2.pdf7_39_59.pdf",
+    "fecha": "2024-02-23 17:19:12",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/A25665E-C3DF-4F60-9A36-E7B7E491B9F2.json7_39_59.json",
+    "fecha": "2024-02-23 17:19:12",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 23, 17, 19, 11, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/25DAC9E-7596-44CA-9687-35ABB70FBBC3.pdf7_39_59.pdf",
+    "fecha": "2024-02-23 17:19:11",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/25DAC9E-7596-44CA-9687-35ABB70FBBC3.json7_39_59.json",
+    "fecha": "2024-02-23 17:19:11",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 23, 13, 56, 19, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 22/02/2024. " , "files": [
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidoEP240223.0833.ZIP",
+    "fecha": "2024-02-23 13:56:19",
+    "error": "",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 21, 13, 43, 54, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 20/02/2024. " , "files": [
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidoEP240221.0809.ZIP",
+    "fecha": "2024-02-21 13:43:54",
+    "error": "",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 21, 18, 21, 55, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/955F869-823A-4AFF-9EFA-752994B10B6C.pdf7_39_59.pdf",
+    "fecha": "2024-02-21 18:21:55",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/955F869-823A-4AFF-9EFA-752994B10B6C.json7_39_59.json",
+    "fecha": "2024-02-21 18:21:55",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 21, 18, 21, 57, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/27B0D78-8D83-4410-BA23-1989ABBD0E51.pdf7_39_59.pdf",
+    "fecha": "2024-02-21 18:21:57",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/27B0D78-8D83-4410-BA23-1989ABBD0E51.json7_39_59.json",
+    "fecha": "2024-02-21 18:21:57",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 20, 13, 47, 20, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 19/02/2024. " , "files": [
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidoEP240220.0801.ZIP",
+    "fecha": "2024-02-20 13:47:20",
+    "error": "",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 20, 17, 17, 11, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/20C50BB-1178-43FB-8BA2-BBBFDE1B9157.pdf7_39_59.pdf",
+    "fecha": "2024-02-20 17:17:11",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/20C50BB-1178-43FB-8BA2-BBBFDE1B9157.json7_39_59.json",
+    "fecha": "2024-02-20 17:17:11",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 20, 17, 17, 10, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/3578AEC-338B-4DB5-A00C-FF4BF1358E33.pdf7_39_59.pdf",
+    "fecha": "2024-02-20 17:17:10",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/3578AEC-338B-4DB5-A00C-FF4BF1358E33.json7_39_59.json",
+    "fecha": "2024-02-20 17:17:10",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 20, 6, 25, 9, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 18/02/2024. " , "files": [
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidoEP240220.0501.ZIP",
+    "fecha": "2024-02-20 06:25:09",
+    "error": "",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " efactura@cosase.com ", "fecha": " (2024, 2, 19, 16, 54, 37, 0, 1, -1) ", "titulo":" Factura Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/8177A41-59C9-42B8-9AED-7BCD6CEB52C7_19_2_2024_16_54_490.pdf7_39_59.pdf",
+    "fecha": "2024-02-19 16:54:37",
+    "error": "",
+    "direccion_origen": "efactura@cosase.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/8177A41-59C9-42B8-9AED-7BCD6CEB52C7.json7_39_59.json",
+    "fecha": "2024-02-19 16:54:37",
+    "error": "",
+    "direccion_origen": "efactura@cosase.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " efactura@cosase.com ", "fecha": " (2024, 2, 19, 16, 54, 52, 0, 1, -1) ", "titulo":" Factura Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/8A4CE8E-0B0A-45DB-A0FA-D4CDFB208A48_19_2_2024_16_54_15.pdf7_39_59.pdf",
+    "fecha": "2024-02-19 16:54:52",
+    "error": "",
+    "direccion_origen": "efactura@cosase.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/8A4CE8E-0B0A-45DB-A0FA-D4CDFB208A48.json7_39_59.json",
+    "fecha": "2024-02-19 16:54:52",
+    "error": "",
+    "direccion_origen": "efactura@cosase.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 19, 21, 19, 21, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/323DED0-789A-4B47-A894-BA4CB4632929.pdf7_39_59.pdf",
+    "fecha": "2024-02-19 21:19:21",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/323DED0-789A-4B47-A894-BA4CB4632929.json7_39_59.json",
+    "fecha": "2024-02-19 21:19:21",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 19, 21, 19, 20, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/912172E-5C9C-477D-BF8E-D1D57B306D3A.pdf7_39_59.pdf",
+    "fecha": "2024-02-19 21:19:20",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/912172E-5C9C-477D-BF8E-D1D57B306D3A.json7_39_59.json",
+    "fecha": "2024-02-19 21:19:20",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " fel@inprocasa.com ", "fecha": " (2024, 2, 19, 14, 7, 34, 0, 1, -1) ", "titulo":" INPROCASA - Factura Electronica " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/D401026-BA4B-4E42-8026-1094A7B477B3.json7_39_59.json",
+    "fecha": "2024-02-19 14:07:34",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 19, 19, 21, 22, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/4A666E9-03E4-4088-ADF8-44780965750F.pdf7_39_59.pdf",
+    "fecha": "2024-02-19 19:21:22",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/4A666E9-03E4-4088-ADF8-44780965750F.json7_39_59.json",
+    "fecha": "2024-02-19 19:21:22",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 19, 19, 21, 22, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/8BC5557-AFE7-4C77-9A5D-946A2C6CDA39.pdf7_39_59.pdf",
+    "fecha": "2024-02-19 19:21:22",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/8BC5557-AFE7-4C77-9A5D-946A2C6CDA39.json7_39_59.json",
+    "fecha": "2024-02-19 19:21:22",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 19, 17, 19, 23, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/F4E2218-DDF3-440D-94DA-29E8BE29ED63.pdf7_39_59.pdf",
+    "fecha": "2024-02-19 17:19:23",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/F4E2218-DDF3-440D-94DA-29E8BE29ED63.json7_39_59.json",
+    "fecha": "2024-02-19 17:19:23",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 19, 17, 19, 32, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/41F64CD-5403-45FD-B57B-D0C3CF3709C5.pdf7_39_59.pdf",
+    "fecha": "2024-02-19 17:19:32",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/41F64CD-5403-45FD-B57B-D0C3CF3709C5.json7_39_59.json",
+    "fecha": "2024-02-19 17:19:32",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 19, 11, 3, 39, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 17/02/2024. " , "files": [
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidoEP240219.0854.ZIP",
+    "fecha": "2024-02-19 11:03:39",
+    "error": "",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 18, 10, 11, 27, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 16/02/2024. " , "files": [
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidoEP240218.0878.ZIP",
+    "fecha": "2024-02-18 10:11:27",
+    "error": "",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 17, 10, 17, 56, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 15/02/2024. " , "files": [
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidoEP240217.0860.ZIP",
+    "fecha": "2024-02-17 10:17:56",
+    "error": "",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " no-replay@grupo-rvq.com ", "fecha": " (2024, 2, 17, 13, 30, 59, 0, 1, -1) ", "titulo":" TEXACO LAS ARBOLEDAS envia su factura 311194D0-40B7-1587-2129-616832651151 " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/11194D0-40B7-1587-2129-616832651151.pdf7_39_59.pdf",
+    "fecha": "2024-02-17 13:30:59",
+    "error": "",
+    "direccion_origen": "no-replay@grupo-rvq.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/11194D0-40B7-1587-2129-616832651151.json7_39_59.json",
+    "fecha": "2024-02-17 13:30:59",
+    "error": "",
+    "direccion_origen": "no-replay@grupo-rvq.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacion_electronica@omnisport.com ", "fecha": " (2024, 2, 16, 11, 52, 32, 0, 1, -1) ", "titulo":" Omnisport – Documento Tributario Electrónico " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/5E57EE2-450A-4382-85EA-FFDA7843CDD0.json7_39_59.json",
+    "fecha": "2024-02-16 11:52:32",
+    "error": "",
+    "direccion_origen": "facturacion_electronica@omnisport.com"
+} ,
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/5E57EE2-450A-4382-85EA-FFDA7843CDD0.pdf7_39_59.pdf",
+    "fecha": "2024-02-16 11:52:32",
+    "error": "",
+    "direccion_origen": "facturacion_electronica@omnisport.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 16, 12, 5, 45, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 14/02/2024. " , "files": [
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidoEP240216.0871.ZIP",
+    "fecha": "2024-02-16 12:05:45",
+    "error": "",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 16, 17, 1, 5, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/09D3953-DE4A-486B-AE52-1E426A38E883.pdf7_39_59.pdf",
+    "fecha": "2024-02-16 17:01:05",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/09D3953-DE4A-486B-AE52-1E426A38E883.json7_39_59.json",
+    "fecha": "2024-02-16 17:01:05",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 16, 17, 1, 5, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7DC8F81-262C-44E9-8125-79948510F4B0.pdf7_39_59.pdf",
+    "fecha": "2024-02-16 17:01:05",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7DC8F81-262C-44E9-8125-79948510F4B0.json7_39_59.json",
+    "fecha": "2024-02-16 17:01:05",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 15, 13, 51, 44, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 10/02/2024. " , "files": [
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidoEP240215.0831.ZIP",
+    "fecha": "2024-02-15 13:51:44",
+    "error": "",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 15, 17, 44, 18, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/E5DC88A-DDF2-4D81-8C7A-7DBD5EA197F6.pdf7_39_59.pdf",
+    "fecha": "2024-02-15 17:44:18",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/E5DC88A-DDF2-4D81-8C7A-7DBD5EA197F6.json7_39_59.json",
+    "fecha": "2024-02-15 17:44:18",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 15, 17, 44, 19, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/18D4797-AE29-4668-936D-4BEC95D223F9.pdf7_39_59.pdf",
+    "fecha": "2024-02-15 17:44:19",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/18D4797-AE29-4668-936D-4BEC95D223F9.json7_39_59.json",
+    "fecha": "2024-02-15 17:44:19",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " ddediaz8@gmail.com ", "fecha": " (2024, 2, 15, 8, 32, 30, 0, 1, -1) ", "titulo":" Fwd: Facturación Electrónica RRDonnelley El Salvador 4A0CB7CE-B8D1-4653-9F82-B687DEECBEDC " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/A0CB7CE-B8D1-4653-9F82-B687DEECBEDC.json7_39_59.json",
+    "fecha": "2024-02-15 08:32:30",
+    "error": "",
+    "direccion_origen": "ddediaz8@gmail.com"
+} ,
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/A0CB7CE-B8D1-4653-9F82-B687DEECBEDC.pdf7_39_59.pdf",
+    "fecha": "2024-02-15 08:32:30",
+    "error": "",
+    "direccion_origen": "ddediaz8@gmail.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 14, 23, 54, 34, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/8FE3FE9-AE26-4B47-97F0-DD5BE71978C9.pdf7_39_59.pdf",
+    "fecha": "2024-02-14 23:54:34",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/8FE3FE9-AE26-4B47-97F0-DD5BE71978C9.json7_39_59.json",
+    "fecha": "2024-02-14 23:54:34",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 14, 23, 54, 33, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/03432CD-2986-41CC-B227-2359F78C26F3.pdf7_39_59.pdf",
+    "fecha": "2024-02-14 23:54:33",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/03432CD-2986-41CC-B227-2359F78C26F3.json7_39_59.json",
+    "fecha": "2024-02-14 23:54:33",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 14, 20, 55, 32, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/61E78E0-511B-4278-B5CE-42CE9DA91F2F.pdf7_39_59.pdf",
+    "fecha": "2024-02-14 20:55:32",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/61E78E0-511B-4278-B5CE-42CE9DA91F2F.json7_39_59.json",
+    "fecha": "2024-02-14 20:55:32",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 14, 14, 50, 24, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 13/02/2024. " , "files": [
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidoEP240214.0840.ZIP",
+    "fecha": "2024-02-14 14:50:24",
+    "error": "",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 14, 19, 57, 2, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7159DE0-14DC-435D-AE2A-1E980C3ABE3B.pdf7_39_59.pdf",
+    "fecha": "2024-02-14 19:57:02",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7159DE0-14DC-435D-AE2A-1E980C3ABE3B.json7_39_59.json",
+    "fecha": "2024-02-14 19:57:02",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 14, 18, 46, 46, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7061284-540E-43AB-A5BB-09B4B8C664A0.pdf7_39_59.pdf",
+    "fecha": "2024-02-14 18:46:46",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7061284-540E-43AB-A5BB-09B4B8C664A0.json7_39_59.json",
+    "fecha": "2024-02-14 18:46:46",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 13, 13, 4, 48, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 12/02/2024. " , "files": [
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidoEP240213.0803.ZIP",
+    "fecha": "2024-02-13 13:04:48",
+    "error": "",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 13, 17, 22, 14, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/611AF0C-DEAF-4E28-8EB9-384DB31DCE1D.pdf7_39_59.pdf",
+    "fecha": "2024-02-13 17:22:14",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/611AF0C-DEAF-4E28-8EB9-384DB31DCE1D.json7_39_59.json",
+    "fecha": "2024-02-13 17:22:14",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 13, 17, 22, 13, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/D4532C6-6898-4973-B78E-B54234068D7E.pdf7_39_59.pdf",
+    "fecha": "2024-02-13 17:22:13",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/D4532C6-6898-4973-B78E-B54234068D7E.json7_39_59.json",
+    "fecha": "2024-02-13 17:22:13",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 12, 17, 36, 35, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/9970E36-14CE-402B-B8B2-C783EF58DB5D.pdf7_39_59.pdf",
+    "fecha": "2024-02-12 17:36:35",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/9970E36-14CE-402B-B8B2-C783EF58DB5D.json7_39_59.json",
+    "fecha": "2024-02-12 17:36:35",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 12, 17, 36, 34, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/155A0E8-A207-4B3A-A7FD-E00AC856234F.pdf7_39_59.pdf",
+    "fecha": "2024-02-12 17:36:34",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/155A0E8-A207-4B3A-A7FD-E00AC856234F.json7_39_59.json",
+    "fecha": "2024-02-12 17:36:34",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 11, 19, 58, 49, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 10/02/2024. " , "files": [
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidoEP240211.0738.ZIP",
+    "fecha": "2024-02-11 19:58:49",
+    "error": "",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 9, 13, 43, 57, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 08/02/2024. " , "files": [
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidoEP240209.0844.ZIP",
+    "fecha": "2024-02-09 13:43:57",
+    "error": "",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 9, 18, 29, 17, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/4ECE7D4-2FC2-4270-9093-02851F65DD66.pdf7_39_59.pdf",
+    "fecha": "2024-02-09 18:29:17",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/4ECE7D4-2FC2-4270-9093-02851F65DD66.json7_39_59.json",
+    "fecha": "2024-02-09 18:29:17",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " facturacionelectronica@redserfinsa.com ", "fecha": " (2024, 2, 9, 18, 29, 17, 0, 1, -1) ", "titulo":" Notificacion de Factura Tributaria Electronica " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/A5B8681-4279-450D-B4CA-CE93343FB056.pdf7_39_59.pdf",
+    "fecha": "2024-02-09 18:29:17",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/A5B8681-4279-450D-B4CA-CE93343FB056.json7_39_59.json",
+    "fecha": "2024-02-09 18:29:17",
+    "error": "",
+    "direccion_origen": "facturacionelectronica@redserfinsa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " fel_almapa@almacenesbomba.com ", "fecha": " (2024, 2, 8, 10, 17, 33, 0, 1, -1) ", "titulo":" ALMACENES BOMBA - Factura Electronica " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/880CE21-D086-41E4-B69A-B0B485565C55.json7_39_59.json",
+    "fecha": "2024-02-08 10:17:33",
+    "error": "",
+    "direccion_origen": "fel_almapa@almacenesbomba.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " noreply@coplasa.net ", "fecha": " (2024, 2, 7, 15, 38, 57, 0, 1, -1) ", "titulo":" Documento DTE-03-09110000-202402000001576 " , "files": [
+{
+    "codigo": "INFO_PDF",
+    "titulo": "http://central.bomba.com:8090/PROD_files/TE-03-09110000-202402000001576.pdf7_39_59.pdf",
+    "fecha": "2024-02-07 15:38:57",
+    "error": "",
+    "direccion_origen": "noreply@coplasa.net"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/TE-03-09110000-202402000001576.json7_39_59.json",
+    "fecha": "2024-02-07 15:38:57",
+    "error": "",
+    "direccion_origen": "noreply@coplasa.net"
+} ,
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/ELLO-DTE-03-09110000-202402000001576.json7_39_59.json",
+    "fecha": "2024-02-07 15:38:57",
+    "error": "",
+    "direccion_origen": "noreply@coplasa.net"
+} ,
+{
+    "codigo": "archivos JSON",
+    "titulo": "4.0",
+    "fecha": "2024-02-07 15:38:57",
+    "error": "ERROR: muchos archivos JSON NO SE ADJUNTARA EL PDF",
+    "direccion_origen": "noreply@coplasa.net"
+} ,
+{
+    "codigo": "ERROR_no_se_identifica_emisor",
+    "titulo": "no se encontro informacion del emisor NOTIFICAR A TI",
+    "error": "",
+    "direccion_origen": "noreply@coplasa.net"
+} ,
+{
+    "codigo": "ERROR_no_se_identifica_receptor",
+    "titulo": "no se encontro el receptor, deben revisar si esta bien el json",
+    "error": "",
+    "direccion_origen": "noreply@coplasa.net"
+} ,
+{
+    "codigo": "Advertencia_no_tipo_dte",
+    "titulo": "NO SE SABE QUE TIPO DE DTE ES",
+    "error": "",
+    "direccion_origen": "noreply@coplasa.net"
+} ,
+{
+    "codigo": "REVISAR_EMPRESA_EQUIVOCADA_O_INVALIDACION",
+    "titulo": "CONTACTAR CON LA EMPRESA PARA QUE ENVIE AL CORREO CORRECTO NIT RECEPTOR:{}",
+    "fecha": "D09671F6-96AE-4F3B-8D32-59C0EAA16A14",
+    "direccion_origen": "D09671F6-96AE-4F3B-8D32-59C0EAA16A14"
+} ,
+{"fin":"fin"}]},
+{ "origen": " fel@inprocasa.com ", "fecha": " (2024, 2, 1, 17, 21, 21, 0, 1, -1) ", "titulo":" INPROCASA - Factura Electronica " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/E0BABFF-CF0A-4DB6-ADC1-CE9E97FBBAF0.json7_39_59.json",
+    "fecha": "2024-02-01 17:21:21",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " fel@inprocasa.com ", "fecha": " (2024, 2, 1, 10, 17, 25, 0, 1, -1) ", "titulo":" INPROCASA - Factura Electronica " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/2F51923-D33D-43E3-AD40-DBE0E75C898D.json7_39_59.json",
+    "fecha": "2024-02-01 10:17:25",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{
+    "codigo": "advertencia_multiples_lineas",
+    "titulo": "verificar montos",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " fel@inprocasa.com ", "fecha": " (2024, 1, 24, 16, 52, 8, 0, 1, -1) ", "titulo":" INPROCASA - Factura Electronica " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/A8A4D4A-F8B5-4923-800C-D6B5E3214894.json7_39_59.json",
+    "fecha": "2024-01-24 16:52:08",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{
+    "codigo": "advertencia_multiples_lineas",
+    "titulo": "verificar montos",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " fel@inprocasa.com ", "fecha": " (2024, 1, 4, 10, 24, 12, 0, 1, -1) ", "titulo":" INPROCASA - Factura Electronica " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/F4E2AA1-C970-4E94-A1BB-0EB9AA757B45.json7_39_59.json",
+    "fecha": "2024-01-04 10:24:12",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{
+    "codigo": "advertencia_multiples_lineas",
+    "titulo": "verificar montos",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " fel@inprocasa.com ", "fecha": " (2023, 12, 30, 15, 13, 59, 0, 1, -1) ", "titulo":" INPROCASA - Factura Electronica " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/74739F7-EC7E-4C88-B363-5EFC672C6C5D.json7_39_59.json",
+    "fecha": "2023-12-30 15:13:59",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " fel@inprocasa.com ", "fecha": " (2023, 12, 30, 14, 40, 10, 0, 1, -1) ", "titulo":" INPROCASA - Factura Electronica " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/2F41ACE-F81B-4B1E-9746-81121C5DE095.json7_39_59.json",
+    "fecha": "2023-12-30 14:40:10",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{
+    "codigo": "advertencia_multiples_lineas",
+    "titulo": "verificar montos",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " fel@inprocasa.com ", "fecha": " (2023, 12, 30, 14, 23, 27, 0, 1, -1) ", "titulo":" INPROCASA - Factura Electronica " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/1F76902-BEB7-4F28-894C-268FF33C94CE.json7_39_59.json",
+    "fecha": "2023-12-30 14:23:27",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{
+    "codigo": "advertencia_multiples_lineas",
+    "titulo": "verificar montos",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " fel@inprocasa.com ", "fecha": " (2023, 12, 30, 13, 45, 49, 0, 1, -1) ", "titulo":" INPROCASA - Factura Electronica " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/143BC6D-476B-4205-A2FA-E097952BE3F2.json7_39_59.json",
+    "fecha": "2023-12-30 13:45:49",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{
+    "codigo": "advertencia_multiples_lineas",
+    "titulo": "verificar montos",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " fel@inprocasa.com ", "fecha": " (2023, 12, 30, 13, 39, 26, 0, 1, -1) ", "titulo":" INPROCASA - Factura Electronica " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/84BAE45-5654-4912-92BC-0A77B8B9EA93.json7_39_59.json",
+    "fecha": "2023-12-30 13:39:26",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{
+    "codigo": "advertencia_multiples_lineas",
+    "titulo": "verificar montos",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " fel@inprocasa.com ", "fecha": " (2023, 12, 30, 10, 57, 16, 0, 1, -1) ", "titulo":" INPROCASA - Factura Electronica " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/3228D3A-1D8F-4B07-9978-633B7304B641.json7_39_59.json",
+    "fecha": "2023-12-30 10:57:16",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " fel@inprocasa.com ", "fecha": " (2023, 12, 29, 15, 33, 15, 0, 1, -1) ", "titulo":" INPROCASA - Factura Electronica " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/54B58AF-D577-4F70-9825-40E949D98C24.json7_39_59.json",
+    "fecha": "2023-12-29 15:33:15",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " fel@inprocasa.com ", "fecha": " (2023, 12, 22, 9, 47, 48, 0, 1, -1) ", "titulo":" INPROCASA - Factura Electronica " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/589C843-6CB3-4230-9EDB-BCD0384AA04B.json7_39_59.json",
+    "fecha": "2023-12-22 09:47:48",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " fel@inprocasa.com ", "fecha": " (2023, 12, 13, 14, 57, 59, 0, 1, -1) ", "titulo":" INPROCASA - Factura Electronica " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/9F5636F-4E18-4FB8-9C51-2B72AD71B6F7.json7_39_59.json",
+    "fecha": "2023-12-13 14:57:59",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{
+    "codigo": "advertencia_multiples_lineas",
+    "titulo": "verificar montos",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " fel@inprocasa.com ", "fecha": " (2023, 12, 9, 10, 4, 30, 0, 1, -1) ", "titulo":" INPROCASA - Factura Electronica " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/2058152-1DA8-4153-BB08-86927D352D89.json7_39_59.json",
+    "fecha": "2023-12-09 10:04:30",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{
+    "codigo": "advertencia_multiples_lineas",
+    "titulo": "verificar montos",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " fel@inprocasa.com ", "fecha": " (2023, 12, 9, 8, 24, 55, 0, 1, -1) ", "titulo":" INPROCASA - Factura Electronica " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/E8CB4FE-D5E1-4AFD-AE99-7CCEB923EFD7.json7_39_59.json",
+    "fecha": "2023-12-09 08:24:55",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{
+    "codigo": "advertencia_multiples_lineas",
+    "titulo": "verificar montos",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " fel@inprocasa.com ", "fecha": " (2023, 11, 29, 17, 9, 49, 0, 1, -1) ", "titulo":" INPROCASA - Factura Electronica " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/0F77114-C517-4A1B-AD28-88EA305B62FD.json7_39_59.json",
+    "fecha": "2023-11-29 17:09:49",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{
+    "codigo": "advertencia_multiples_lineas",
+    "titulo": "verificar montos",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " fel@inprocasa.com ", "fecha": " (2023, 11, 29, 16, 36, 42, 0, 1, -1) ", "titulo":" INPROCASA - Factura Electronica " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/9684A7C-CDD7-4DAD-BF17-9C76BF0068AE.json7_39_59.json",
+    "fecha": "2023-11-29 16:36:42",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " fel@inprocasa.com ", "fecha": " (2023, 11, 11, 13, 30, 12, 0, 1, -1) ", "titulo":" INPROCASA - Factura Electronica " , "files": [
+{
+    "codigo": "INFO_JSON",
+    "titulo": "http://central.bomba.com:8090/PROD_files/6972933-0806-4C6C-A53F-78EC9D4ABC76.json7_39_59.json",
+    "fecha": "2023-11-11 13:30:12",
+    "error": "",
+    "direccion_origen": "fel@inprocasa.com"
+} ,
+{"fin":"fin"}]},
+{ "origen": " alex.uceda@almacenesbomba.com ", "fecha": " (2023, 10, 27, 8, 7, 19, 0, 1, -1) ", "titulo":" Correccion de correos de recepcion " , "files": [
+{"fin":"fin"}]},
+{ "origen": " cpanel@importelsv.com ", "fecha": " (2023, 10, 20, 17, 18, 17, 0, 1, -1) ", "titulo":" [importelsv.com] Client configuration settings for “dte@importelsv.com”. " , "files": [
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidopanel-logo-tiny.png",
+    "fecha": "2023-10-20 17:18:17",
+    "error": "",
+    "direccion_origen": "cpanel@importelsv.com"
+} ,
+{
+    "codigo": "ARCHIVO_DESCONOCIDO",
+    "titulo": "http://central.bomba.com:8090/PROD_files/7_39_59desconocidomail-dte@importelsv.com.mobileconfig",
+    "fecha": "2023-10-20 17:18:17",
+    "error": "",
+    "direccion_origen": "cpanel@importelsv.com"
+} ,
+{"fin":"fin"}]},
+{"origen": "fin de proceso","fecha": "","titulo": "json:82, CORREOS:106 ","files":[]}
+]

@@ -23,8 +23,7 @@ return [
         'https://drive.google.com',
         'https://almacenesbomba.com',
         'http://central.almapa.info',
-        'https://central.almapa.info',
-        'null'
+        'https://central.almapa.info'
     ],
 
     'allowed_origins_patterns' => [],

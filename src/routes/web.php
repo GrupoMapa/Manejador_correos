@@ -31,12 +31,12 @@ Route::get('/json_view', function () {
     }else{
         return redirect('/login');
     }
-})->name('json_view');
+})->name('home');
 
 Route::get('/pruebas_server', [rutControlller::class, 'pruebas_server']);
 
-// Route::get('/register', [AuthController::class, 'form_registro'])->name('register');
-// Route::post('/register', [AuthController::class, 'register'])->name('register.store');
+Route::get('/register', [AuthController::class, 'form_registro'])->name('register');
+Route::post('/register', [AuthController::class, 'register'])->name('register.store');
 Route::get('/login', [AuthController::class, 'form_login'])->name('login');
 Route::post('/login', [AuthController::class, 'login'])->name('login.store');
 Route::get('/logout', [AuthController::class, 'logout'])->name('logout');

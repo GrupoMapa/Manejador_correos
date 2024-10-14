@@ -14,9 +14,9 @@ import string
 import asyncio  # Agregar esta línea para importar el módulo asyncio
 
 # Ruta del directorio donde se encuentran los archivos de correo electrónico
-directorio_correos = '/home/server/Documents/manejador_correos/mails_bomba/cur'
+directorio_correos = '/home/uceda/Documents/manejador_correos/mails_bomba/cur'
 # Ruta del directorio donde se guardarán los archivos adjuntos
-directorio_adjuntos = '/home/server/Documents/manejador_correos/Docker_lego/src/public/files_dte'
+directorio_adjuntos = '/home/uceda/Documents/manejador_correos/Docker_lego/src/public/files_dte'
 # URL de la solicitud POST
 url_solicitud_post = 'http://localhost:8000/api/summary2/factura_electronica' #'https://almacenesbomba.com/summary2/api/factura_electronica'
 url_lista_procesados = 'http://localhost:8000/api/summary2/get_list_all'

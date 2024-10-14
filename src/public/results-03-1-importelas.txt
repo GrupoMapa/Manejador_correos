@@ -1,0 +1,385 @@
+[
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 19, 11, 3, 39, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 17/02/2024. " , "files": [
+{
+    "codigo": "nombre_archivo",
+    "titulo": "2.0",
+    "fecha": "2024-02-19 11:03:39",
+    "error": "UN ARCHIVO DE FORMATO DESCONOCIDO",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{
+    "codigo": "SIN PDF",
+    "titulo": "3.0",
+    "fecha": "2024-02-19 11:03:39",
+    "error": "correo sin PDF",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 27, 13, 38, 52, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 26/02/2024. " , "files": [
+{
+    "codigo": "nombre_archivo",
+    "titulo": "2.0",
+    "fecha": "2024-02-27 13:38:52",
+    "error": "UN ARCHIVO DE FORMATO DESCONOCIDO",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{
+    "codigo": "SIN PDF",
+    "titulo": "3.0",
+    "fecha": "2024-02-27 13:38:52",
+    "error": "correo sin PDF",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 26, 16, 54, 39, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 25/02/2024. " , "files": [
+{
+    "codigo": "nombre_archivo",
+    "titulo": "2.0",
+    "fecha": "2024-02-26 16:54:39",
+    "error": "UN ARCHIVO DE FORMATO DESCONOCIDO",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{
+    "codigo": "SIN PDF",
+    "titulo": "3.0",
+    "fecha": "2024-02-26 16:54:39",
+    "error": "correo sin PDF",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 13, 13, 4, 48, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 12/02/2024. " , "files": [
+{
+    "codigo": "nombre_archivo",
+    "titulo": "2.0",
+    "fecha": "2024-02-13 13:04:48",
+    "error": "UN ARCHIVO DE FORMATO DESCONOCIDO",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{
+    "codigo": "SIN PDF",
+    "titulo": "3.0",
+    "fecha": "2024-02-13 13:04:48",
+    "error": "correo sin PDF",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 29, 14, 26, 21, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 28/02/2024. " , "files": [
+{
+    "codigo": "nombre_archivo",
+    "titulo": "2.0",
+    "fecha": "2024-02-29 14:26:21",
+    "error": "UN ARCHIVO DE FORMATO DESCONOCIDO",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{
+    "codigo": "SIN PDF",
+    "titulo": "3.0",
+    "fecha": "2024-02-29 14:26:21",
+    "error": "correo sin PDF",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 9, 13, 43, 57, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 08/02/2024. " , "files": [
+{
+    "codigo": "nombre_archivo",
+    "titulo": "2.0",
+    "fecha": "2024-02-09 13:43:57",
+    "error": "UN ARCHIVO DE FORMATO DESCONOCIDO",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{
+    "codigo": "SIN PDF",
+    "titulo": "3.0",
+    "fecha": "2024-02-09 13:43:57",
+    "error": "correo sin PDF",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+]},
+{ "origen": " d.e.t.textiles@gmail.com ", "fecha": " (2024, 3, 1, 13, 51, 42, 0, 1, -1) ", "titulo":" Fwd: New Invoice 03/01/2024 " , "files": [
+{
+    "codigo": "nombre_archivo",
+    "titulo": "2.0",
+    "fecha": "2024-03-01 13:51:42",
+    "error": "UN ARCHIVO DE FORMATO DESCONOCIDO",
+    "direccion_origen": "d.e.t.textiles@gmail.com"
+} ,
+{
+    "codigo": "SIN PDF",
+    "titulo": "3.0",
+    "fecha": "2024-03-01 13:51:42",
+    "error": "correo sin PDF",
+    "direccion_origen": "d.e.t.textiles@gmail.com"
+} ,
+]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 14, 14, 50, 24, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 13/02/2024. " , "files": [
+{
+    "codigo": "nombre_archivo",
+    "titulo": "2.0",
+    "fecha": "2024-02-14 14:50:24",
+    "error": "UN ARCHIVO DE FORMATO DESCONOCIDO",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{
+    "codigo": "SIN PDF",
+    "titulo": "3.0",
+    "fecha": "2024-02-14 14:50:24",
+    "error": "correo sin PDF",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 20, 6, 25, 9, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 18/02/2024. " , "files": [
+{
+    "codigo": "nombre_archivo",
+    "titulo": "2.0",
+    "fecha": "2024-02-20 06:25:09",
+    "error": "UN ARCHIVO DE FORMATO DESCONOCIDO",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{
+    "codigo": "SIN PDF",
+    "titulo": "3.0",
+    "fecha": "2024-02-20 06:25:09",
+    "error": "correo sin PDF",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 25, 10, 47, 12, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 23/02/2024. " , "files": [
+{
+    "codigo": "nombre_archivo",
+    "titulo": "2.0",
+    "fecha": "2024-02-25 10:47:12",
+    "error": "UN ARCHIVO DE FORMATO DESCONOCIDO",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{
+    "codigo": "SIN PDF",
+    "titulo": "3.0",
+    "fecha": "2024-02-25 10:47:12",
+    "error": "correo sin PDF",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 11, 19, 58, 49, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 10/02/2024. " , "files": [
+{
+    "codigo": "nombre_archivo",
+    "titulo": "2.0",
+    "fecha": "2024-02-11 19:58:49",
+    "error": "UN ARCHIVO DE FORMATO DESCONOCIDO",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{
+    "codigo": "SIN PDF",
+    "titulo": "3.0",
+    "fecha": "2024-02-11 19:58:49",
+    "error": "correo sin PDF",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 23, 13, 56, 19, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 22/02/2024. " , "files": [
+{
+    "codigo": "nombre_archivo",
+    "titulo": "2.0",
+    "fecha": "2024-02-23 13:56:19",
+    "error": "UN ARCHIVO DE FORMATO DESCONOCIDO",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{
+    "codigo": "SIN PDF",
+    "titulo": "3.0",
+    "fecha": "2024-02-23 13:56:19",
+    "error": "correo sin PDF",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 15, 13, 51, 44, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 10/02/2024. " , "files": [
+{
+    "codigo": "nombre_archivo",
+    "titulo": "2.0",
+    "fecha": "2024-02-15 13:51:44",
+    "error": "UN ARCHIVO DE FORMATO DESCONOCIDO",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{
+    "codigo": "SIN PDF",
+    "titulo": "3.0",
+    "fecha": "2024-02-15 13:51:44",
+    "error": "correo sin PDF",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+]},
+{ "origen": " fel_almapa@almacenesbomba.com ", "fecha": " (2024, 2, 8, 10, 17, 33, 0, 1, -1) ", "titulo":" ALMACENES BOMBA - Factura Electronica " , "files": [
+{
+    "codigo": "SIN PDF",
+    "titulo": "3.0",
+    "fecha": "2024-02-08 10:17:33",
+    "error": "correo sin PDF",
+    "direccion_origen": "fel_almapa@almacenesbomba.com"
+} ,
+{ section_emisor: " 06142910081021 "},
+{ estado:'NO PERTENECE', 'investigar':'es de otra empresa', 'codigo_generacion': ' 5880CE21-D086-41E4-B69A-B0B485565C55 ', 'total_pagar': ' 0 '},
+]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 16, 12, 5, 45, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 14/02/2024. " , "files": [
+{
+    "codigo": "nombre_archivo",
+    "titulo": "2.0",
+    "fecha": "2024-02-16 12:05:45",
+    "error": "UN ARCHIVO DE FORMATO DESCONOCIDO",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{
+    "codigo": "SIN PDF",
+    "titulo": "3.0",
+    "fecha": "2024-02-16 12:05:45",
+    "error": "correo sin PDF",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+]},
+{ "origen": " alex.uceda@almacenesbomba.com ", "fecha": " (2023, 10, 27, 8, 7, 19, 0, 1, -1) ", "titulo":" Correccion de correos de recepcion " , "files": [
+{
+    "codigo": "SIN PDF",
+    "titulo": "3.0",
+    "fecha": "2023-10-27 08:07:19",
+    "error": "correo sin PDF",
+    "direccion_origen": "alex.uceda@almacenesbomba.com"
+} ,
+]},
+{ "origen": " d.e.t.textiles@gmail.com ", "fecha": " (2024, 3, 1, 12, 18, 30, 0, 1, -1) ", "titulo":" Fwd: New Invoice 03/01/2024 " , "files": [
+{
+    "codigo": "nombre_archivo",
+    "titulo": "2.0",
+    "fecha": "2024-03-01 12:18:30",
+    "error": "UN ARCHIVO DE FORMATO DESCONOCIDO",
+    "direccion_origen": "d.e.t.textiles@gmail.com"
+} ,
+{
+    "codigo": "SIN PDF",
+    "titulo": "3.0",
+    "fecha": "2024-03-01 12:18:30",
+    "error": "correo sin PDF",
+    "direccion_origen": "d.e.t.textiles@gmail.com"
+} ,
+]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 26, 11, 36, 16, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 24/02/2024. " , "files": [
+{
+    "codigo": "nombre_archivo",
+    "titulo": "2.0",
+    "fecha": "2024-02-26 11:36:16",
+    "error": "UN ARCHIVO DE FORMATO DESCONOCIDO",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{
+    "codigo": "SIN PDF",
+    "titulo": "3.0",
+    "fecha": "2024-02-26 11:36:16",
+    "error": "correo sin PDF",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 18, 10, 11, 27, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 16/02/2024. " , "files": [
+{
+    "codigo": "nombre_archivo",
+    "titulo": "2.0",
+    "fecha": "2024-02-18 10:11:27",
+    "error": "UN ARCHIVO DE FORMATO DESCONOCIDO",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{
+    "codigo": "SIN PDF",
+    "titulo": "3.0",
+    "fecha": "2024-02-18 10:11:27",
+    "error": "correo sin PDF",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+]},
+{ "origen": " cpanel@importelsv.com ", "fecha": " (2023, 10, 20, 17, 18, 17, 0, 1, -1) ", "titulo":" [importelsv.com] Client configuration settings for “dte@importelsv.com”. " , "files": [
+{
+    "codigo": "nombre_archivo",
+    "titulo": "2.0",
+    "fecha": "2023-10-20 17:18:17",
+    "error": "UN ARCHIVO DE FORMATO DESCONOCIDO",
+    "direccion_origen": "cpanel@importelsv.com"
+} ,
+{
+    "codigo": "nombre_archivo",
+    "titulo": "2.0",
+    "fecha": "2023-10-20 17:18:17",
+    "error": "UN ARCHIVO DE FORMATO DESCONOCIDO",
+    "direccion_origen": "cpanel@importelsv.com"
+} ,
+{
+    "codigo": "SIN PDF",
+    "titulo": "3.0",
+    "fecha": "2023-10-20 17:18:17",
+    "error": "correo sin PDF",
+    "direccion_origen": "cpanel@importelsv.com"
+} ,
+]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 20, 13, 47, 20, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 19/02/2024. " , "files": [
+{
+    "codigo": "nombre_archivo",
+    "titulo": "2.0",
+    "fecha": "2024-02-20 13:47:20",
+    "error": "UN ARCHIVO DE FORMATO DESCONOCIDO",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{
+    "codigo": "SIN PDF",
+    "titulo": "3.0",
+    "fecha": "2024-02-20 13:47:20",
+    "error": "correo sin PDF",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+]},
+{ "origen": " efactura@cosase.com ", "fecha": " (2024, 3, 1, 15, 25, 53, 0, 1, -1) ", "titulo":" Factura Electronica " , "files": [
+{ section_emisor: " 06140107911039 "},
+{ estado:' <Response [500]> ', cod:' 24F19943-F747-4D57-A0DE-971279AD470E '},
+]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 17, 10, 17, 56, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 15/02/2024. " , "files": [
+{
+    "codigo": "nombre_archivo",
+    "titulo": "2.0",
+    "fecha": "2024-02-17 10:17:56",
+    "error": "UN ARCHIVO DE FORMATO DESCONOCIDO",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{
+    "codigo": "SIN PDF",
+    "titulo": "3.0",
+    "fecha": "2024-02-17 10:17:56",
+    "error": "correo sin PDF",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 28, 13, 27, 16, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 27/02/2024. " , "files": [
+{
+    "codigo": "nombre_archivo",
+    "titulo": "2.0",
+    "fecha": "2024-02-28 13:27:16",
+    "error": "UN ARCHIVO DE FORMATO DESCONOCIDO",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{
+    "codigo": "SIN PDF",
+    "titulo": "3.0",
+    "fecha": "2024-02-28 13:27:16",
+    "error": "correo sin PDF",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+]},
+{ "origen": " serfinsa@redserfinsa.com ", "fecha": " (2024, 2, 21, 13, 43, 54, 0, 1, -1) ", "titulo":" REPORTES DE TRANSACCIONES POS - DE FECHA: 20/02/2024. " , "files": [
+{
+    "codigo": "nombre_archivo",
+    "titulo": "2.0",
+    "fecha": "2024-02-21 13:43:54",
+    "error": "UN ARCHIVO DE FORMATO DESCONOCIDO",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+{
+    "codigo": "SIN PDF",
+    "titulo": "3.0",
+    "fecha": "2024-02-21 13:43:54",
+    "error": "correo sin PDF",
+    "direccion_origen": "serfinsa@redserfinsa.com"
+} ,
+]},
+]

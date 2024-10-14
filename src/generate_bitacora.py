@@ -37,7 +37,7 @@ def json_to_html(json_file_path, html_file_path):
         print(f"An error occurred: {e}")
 
 # Replace with your actual JSON and HTML file paths
-json_file_path = "/home/server/Documents/manejador_correos/MANEJADOR_PREMIUM/src/public/BIT_PREMIUM/2024-03-05.json"
-html_file_path = "/home/server/Documents/manejador_correos/MANEJADOR_PREMIUM/src/public/BIT_PREMIUM/2024-03-05.html"
+json_file_path = "/home/uceda/Documents/manejador_correos/MANEJADOR_PREMIUM/src/public/BIT_PREMIUM/2024-03-05.json"
+html_file_path = "/home/uceda/Documents/manejador_correos/MANEJADOR_PREMIUM/src/public/BIT_PREMIUM/2024-03-05.html"
 
 json_to_html(json_file_path, html_file_path)
