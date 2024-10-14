@@ -1,3 +1,0 @@
-[
-Error en la solicitud: 500
-{"error":"SQLSTATE[08006] [7] connection to server at \"192.168.11.245\", port 5432 failed: Network is unreachable\n\tIs the server running on that host and accepting TCP\/IP connections? (Connection: pgsql_local, SQL: select \"message_id\" from \"factura_electronicas\" order by \"id\" asc)"}

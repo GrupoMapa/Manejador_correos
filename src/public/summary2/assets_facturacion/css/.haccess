@@ -1,7 +1,0 @@
-# Configura el tipo MIME para archivos CSS
-AddType text/css .css
-
-# Configura la caché para archivos CSS por 1 mes (en segundos)
-<FilesMatch "\.(css)$">
-    Header set Cache-Control "max-age=2592000, public"
-</FilesMatch>
