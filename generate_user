@@ -1,0 +1,5 @@
+$user = new User();
+$user->name = 'juan';
+$user->email = 'juan@almacenesbomba.com';
+$user->password = bcrypt('asdfghjkl');
+$user->save();
