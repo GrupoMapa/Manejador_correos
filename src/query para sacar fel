@@ -1,0 +1,27 @@
+select fact.nit,fact.tipo_dte,
+	fact."totalPagar",
+	fact.iva_percibido as iva_percibido,
+	fact.valor_operaciones as valor_operaciones,
+	fact.monto_sujeto_percepcion as monto_sujeto_percepcion,
+	fact."numero_control",
+	fact.sello,
+	fact."codigoGeneracion",
+	fact."fechaEmision",
+	fact.json,
+	fact.pdf
+	from (
+		select fact_0.nit, fact_0.tipo_dte,fact_0."codigoGeneracion", fact_0."totalPagar", fact_0.iva_percibido, fact_0.valor_operaciones, fact_0.monto_sujeto_percepcion, 
+			fact_0.numero_control, fact_0.sello, fact_0."fechaEmision", fact_0.json,fact_0.pdf
+			from factura_electronicas fact_0
+		where 
+		fact_0."fechaEmision" between '2024-01-01' and '2024-01-31'
+		group by fact_0.nit, fact_0.tipo_dte,fact_0."codigoGeneracion", fact_0."totalPagar", fact_0.iva_percibido, fact_0.valor_operaciones, 
+		fact_0.monto_sujeto_percepcion, fact_0.numero_control, fact_0.sello, fact_0."fechaEmision", fact_0.json,fact_0.pdf
+		order by fact_0.nit asc, fact_0.tipo_dte asc
+		) fact
+	group by fact.nit, fact.tipo_dte, fact.sello, fact."codigoGeneracion", fact."numero_control", fact."totalPagar", 
+				fact.iva_percibido,fact.valor_operaciones,fact.monto_sujeto_percepcion, fact."fechaEmision",fact.json,fact.pdf
+		--and nit like '05110402951018' -- NIT
+	order by fact.nit asc, fact.tipo_dte asc
+		
+	

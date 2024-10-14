@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  example-one:
+    image: php:8.2-apache
+    ports:
+      - 8000:80
+      #- 443:443
+    volumes:
+      #directorypath:/var/www/html
+      - ./src:/var/www/html
+      - ./config_apache:/etc/apache2/sites-available
+      # - ./ssl/certs:/etc/ssl/certs
+      # - ./ssl/private:/etc/ssl/private
+    environment:
+      - SSL_PASSPHRASE=passphrase
