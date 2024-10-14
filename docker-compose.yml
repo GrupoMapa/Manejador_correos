@@ -4,7 +4,7 @@ services:
   example-one:
     image: php:8.2-apache
     ports:
-      - 8090:80
+      - 8095:80
       #- 443:443
     volumes:
       #directorypath:/var/www/html

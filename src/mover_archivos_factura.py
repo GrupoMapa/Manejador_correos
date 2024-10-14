@@ -21,7 +21,7 @@ dotenv.load_dotenv()
 # Ruta del directorio donde se encuentran los archivos de correo electrónico
 
 directorio_correos      = os.environ.get("DIRECTORIO_CORREOS")
-directorio_adjuntos      = os.environ.get("DIRECTORIO_ADJUNTOS")  
+directorio_adjuntos     = os.environ.get("DIRECTORIO_ADJUNTOS")  
 url_solicitud_post      = os.environ.get("URL_SOLICITUD_POST")  
 url_lista_procesados    = os.environ.get("URL_LISTA_PROCESADOS")  
 NIT                     = os.environ.get("NIT")
